@@ -4,7 +4,7 @@ This book covers the long awaited Scrapy v 1.4 that enables you to extract usefu
 
 This 2nd edition of this book will soon be released.
 
-## What you will learn
+## What you will learn from this project
 
 - Understand HTML pages and write XPath to extract the data you need
 - Write Scrapy spiders with simple Python and do web crawls
